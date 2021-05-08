@@ -1,1 +1,1 @@
-// to atrasada mas vou estudar pra até sabádo está ok,sory :( //
+// to atrasada mas vou estudar para estar tudo ok, sory :( //
