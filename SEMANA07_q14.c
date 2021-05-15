@@ -2,4 +2,27 @@
 // Entrada: uma sequência de números inteiros positivos ou nulo, seguidos de um número negativo. Saídas: uma sequência de caracteres C, B, ou -, conforme especificado no enunciado.
 
 
+// #include <stdio.h>
+// int main(void) {
+//   int a=0,b;
+  
+//   do {
+//   scanf("%i",&b);
+//     if  (b<0){
+//     continue;
+//     }
+//     if (b==a){
+//       printf("-"); 
+//     }
+//     if (b<a){
+//       printf("B");
+//     }
+//     if (b>a){
+//       printf("C");
+//     }
+//     a=b;
+//   }
+//   while (b>=0);
+//   return 0;
+// }
 
