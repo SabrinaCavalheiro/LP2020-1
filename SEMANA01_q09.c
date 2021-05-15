@@ -1,3 +1,13 @@
+// Questão 9) [SEMANA01_q09.c] Em um dado caixa eletrônico estão disponíveis cédulas de 100, de 50,
+// de 20, de 10, de 5, de 2, e de 1 real. Escreva um programa que receba um número inteiro correspondente
+// ao valor que o cliente deseja sacar, e informe o número de notas de cada tipo que compõe a saída. Mas
+// informe SOMENTE aquelas notas que compõem a combinação. Caso a composição tenha 0 notas
+// daquele valor, esta não deve ser exibida. Observe o exemplo. Priorize sempre distribuir as notas de
+// maior valor primeiro.
+// Entrada: Um número inteiro indicando o valor que deseja ser sacado.
+// Saída: A lista de notas e respectivas quantidades que precisam ser emitidas para atender o cliente.
+
+
 // #include <stdio.h>
 // int main(){
 //   int valor, resultado, n100,n50,n20,n10,n5,n2,n1;

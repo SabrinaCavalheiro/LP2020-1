@@ -1,3 +1,8 @@
+// Questão 6) [SEMANA01_q06.c] Escreva um programa em C que receba um número inteiro o imprima por
+// extenso em inglês.
+// Entrada: um número inteiro de 0 a 9.
+// Saída: Uma linha contendo o número por extenso no idioma inglês
+
 // #include <stdio.h>
 // int main(){
 //   int num;

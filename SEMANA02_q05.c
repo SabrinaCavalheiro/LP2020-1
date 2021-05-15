@@ -1,3 +1,10 @@
+// Questão 5) [SEMANA02_q05.c] Escreva um programa que receba 2 números inteiros distintos e
+// apresente na tela uma lista ordenada contendo os números e seus respectivos antecessores e
+// sucessores, sem repetição.
+// Entrada: dois numeros inteiros.
+// Saída: uma sequencia de 4, 5 ou 6.
+
+
 // #include <stdio.h>
 
 // int main(void){
