@@ -14,16 +14,15 @@
 //   gets(frase);
 //   while(frase[vogal]!='\0')
 //   if(vogal<50){
-//     if(frase[vogal]=='a'||frase[vogal]=='e'||frase[vogal]=='i'||frase[vogal]//      =='o'||frase[vogal]=='u'){
+//     if(frase[vogal]=='a'||frase[vogal]=='e'||frase[vogal]=='i'||frase[vogal]=='o'||frase[vogal]=='u'){
 //     frase[vogal]='i';
 //     }else
-//     if(frase[vogal]=='A'||frase[vogal]=='E'||frase[vogal]=='I'||frase[vogal]//     =='O'||frase[vogal]=='U'){
+//     if(frase[vogal]=='A'||frase[vogal]=='E'||frase[vogal]=='I'||frase[vogal]=='O'||frase[vogal]=='U'){
 //     frase[vogal]='I';
 //     }
 //     vogal++;
 //   }
 //   printf("%s\n",frase);
-//
-//  
+  
 //   return 0;
 // }
