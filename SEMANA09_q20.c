@@ -11,33 +11,33 @@
 // int main(void){
 //   int a,b,c,v[10];
 
-//   for (a=0;a<10;a++){
-//     scanf("%i",&v[a]);
+//   for(a=0;a<10;a++){
+//   scanf("%i",&v[a]);
 //   }
 //   for(a=0;a<10;a++){
-// 		for(b=a+1;b<10;b++){
-// 			if(v[a]>v[b]){
-// 			c=v[a];
-// 			v[a]=v[b];
-// 			v[b]=c;
-// 			}
-// 		}
+// 	for(b=a+1;b<10;b++){
+// 	if(v[a]>v[b]){
+// 	c=v[a];
+// 	v[a]=v[b];
+//   v[b]=c;
+//   }
+// 	}
 // 	}
 // 	for(a=0;a<10;a++){
-// 		printf("%i ",v[a]);
-// 	}
-// 	printf("\n");
+// 	printf("%i ",v[a]);
+//   }
+//   printf("\n");
 // 	for(a=0;a<10;a++){
-// 		for(b=a+1;b<10;b++){
-// 			if(v[a]<v[b]){
-// 			c=v[a];
-// 			v[a]=v[b];
-// 			v[b]=c;
-// 			}
-// 		}
+// 	for(b=a+1;b<10;b++){
+// 	if(v[a]<v[b]){
+// 	c=v[a];
+// 	v[a]=v[b];
+// 	v[b]=c;
+// 	}
+// 	}
 // 	}
 // 	for(a=0;a<10;a++){
-// 		printf("%i ",v[a]);
+// 	printf("%i ",v[a]);
 // 	}
 
 // return 0;
